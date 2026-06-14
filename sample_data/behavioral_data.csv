@@ -1,0 +1,5 @@
+user_id,keystroke_mean,mouse_speed,click_duration,typing_pressure,error_rate,label
+user_1,180,450,120,0.75,0.04,1
+user_1,175,460,118,0.78,0.03,1
+user_1,260,300,180,0.45,0.15,0
+user_1,270,290,190,0.42,0.18,0
